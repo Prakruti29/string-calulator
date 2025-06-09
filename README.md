@@ -1,3 +1,3 @@
 # string-calulator
 To run:
-node node stringCalculator.test.js 
+node stringCalculator.test.js 
